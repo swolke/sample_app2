@@ -5,7 +5,7 @@ describe PagesController do
 
 #@pages = ['home', 'contact', 'about', 'help']
   before(:each) do
-    @base_title = "!Sample App! | "
+    @base_title = "!Meine Sample App! | "
 
   end
 
